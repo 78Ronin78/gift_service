@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "939956133781",
+    "firebase_url": "https://giftservice2.firebaseio.com",
+    "project_id": "giftservice2",
+    "storage_bucket": "giftservice2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939956133781:android:9997528cb0dc13fe53a09c",
+        "android_client_info": {
+          "package_name": "twocenter.gift_service_2.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939956133781-o8b676qcia506oa3fkolk9m849c4f0q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEg-h-o39G8YCysuqcKs5TkXC3rvl09w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939956133781-o8b676qcia506oa3fkolk9m849c4f0q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
