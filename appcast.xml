@@ -4,8 +4,8 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Версия 1.0.5</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
+            <description>Обновление системы оплаты заказов.</description>
+            <pubDate>Mon, 22 Apr 2024 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.shrimps_burgers.app&gl=RU&hl=ru&_cb=1713791999655919" sparkle:version="1.0.5" sparkle:os="android" />
         </item>
     </channel>
