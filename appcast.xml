@@ -3,16 +3,16 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Версия 1.0.9</title>
+            <title>Версия 1.0.7</title>
             <description>Обновление системы оплаты заказов.</description>
             <pubDate>Wen, 22 May 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.shrimps_burgers.app&gl=RU&hl=ru&_cb=1713791999655919" sparkle:version="1.0.9" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.shrimps_burgers.app&gl=RU&hl=ru&_cb=1713791999655919" sparkle:version="1.0.7" sparkle:os="android" />
         </item>
          <item>
-            <title>Версия 1.0.9</title>
+            <title>Версия 1.0.7</title>
             <description>Обновление системы оплаты заказов.</description>
             <pubDate>Wen, 22 May 2024 12:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/ru/app/%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/id6474134273" sparkle:version="1.0.9" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/ru/app/%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B8-%D0%B8-%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80%D1%8B/id6474134273" sparkle:version="1.0.7" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
